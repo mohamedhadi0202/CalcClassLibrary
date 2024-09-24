@@ -14,7 +14,7 @@ namespace CalcClassLibrary
             {
                total += num;
             }
-             return total / nums.Count();
+             return total / nums.Count()
             
         }
 
